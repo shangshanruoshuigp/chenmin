@@ -7,13 +7,23 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+}
 .box_1 {
 }
 .box_2 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+}
+.box_3 {
+}
+.ellipse {
 }
 ._图片 {
 }
-.placeholder {
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -61,6 +71,40 @@
 }
 .arrow {
 }
+._流程形状 {
+}
+._表格 {
+}
+._单元格 {
+}
+._水平线 {
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.flow_shape {
+}
+.tree_node {
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -75,62 +119,30 @@
 .radio_button {
   text-align:left;
 }
-.html_button {
-  text-align:center;
-}
-.tree_node {
+.text_field {
+  color:#000000;
   text-align:left;
 }
-._流程形状 {
-}
-._连接线 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
+.icon {
 }
 .table_cell {
 }
+.placeholder {
+}
+.html_button {
+  text-align:center;
+}
 .menu_item {
-}
-.sticky_1 {
-  text-align:left;
-}
-.marker {
-  color:#FFFFFF;
 }
 .image {
   color:#000000;
 }
-.icon {
-}
-.ellipse {
-}
-._形状 {
-}
-.box_3 {
-}
-.button {
-}
-.sticky_2 {
-  text-align:left;
-}
-.flow_shape {
-}
 .image1 {
 }
-.primary_button {
-  color:#FFFFFF;
-}
-._文本框 {
-  font-family:'微软雅黑 Regular', '微软雅黑';
+.text_area {
   color:#000000;
   text-align:left;
 }
-.text_field {
+._图片1 {
   color:#000000;
-  text-align:left;
 }
