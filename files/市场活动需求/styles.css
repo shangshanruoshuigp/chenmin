@@ -222,3 +222,25 @@
   width:68px;
   word-wrap:break-word;
 }
+#u4299_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:209px;
+  height:44px;
+}
+#u4299 {
+  position:absolute;
+  left:253px;
+  top:725px;
+  width:209px;
+  height:44px;
+}
+#u4300 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:205px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
