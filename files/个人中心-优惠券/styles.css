@@ -906,6 +906,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  text-align:left;
 }
 #u4433 {
   position:absolute;
@@ -913,6 +914,7 @@
   top:856px;
   width:888px;
   height:688px;
+  text-align:left;
 }
 #u4434 {
   position:absolute;
